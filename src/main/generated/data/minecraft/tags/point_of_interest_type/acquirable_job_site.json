@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "animalfarmer:livestockpoi",
+      "required": false
+    },
+    {
+      "id": "animalfarmer:exoticpoi",
+      "required": false
+    },
+    {
+      "id": "animalfarmer:adventurerpoi",
+      "required": false
+    },
+    {
+      "id": "animalfarmer:aquaticpoi",
+      "required": false
+    }
+  ]
+}
